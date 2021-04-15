@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Creo archico.txt en master
 Otra linea en master
+=======
+Creo archivo pruebas2
+Otra linea más
+>>>>>>> pruebas2
